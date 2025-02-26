@@ -1,4 +1,4 @@
 @echo off
 echo Warte bis Neustart
-timoute 5
+timeoute 5
 shutdown /g /f
